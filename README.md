@@ -23,9 +23,11 @@ GazeData.time // timestamp
 3.  After you finish your test stop eye tracking
 GazeCloudAPI.StopEyeTracking();
 
-optional callbacks
+optional callbacks:
 GazeCloudAPI.OnCalibrationComplete =function(){ console.log('gaze Calibration Complete')  }
+
 GazeCloudAPI.OnCamDenied =  function(){ console.log('camera  access denied')  }
+
 GazeCloudAPI.OnError =  function(msg){ console.log('err: ' + msg)  }
 
 Disable/Enable click recalibration
