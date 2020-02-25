@@ -33,7 +33,7 @@ GazeCloudAPI.OnError =  function(msg){ console.log('err: ' + msg)  }
 Disable/Enable click recalibration
 GazeCloudAPI.UseClickRecalibration = true;
 
-Simple Example: https://api.gazerecorder.com/ (Check out source code)
+Simple Example: https://api.gazerecorder.com/ 
 
 Supported browsers: Chrome 53+ | Edge 12+ | Firefox 42+ | Opera 40+ | Safari 11+   
 
