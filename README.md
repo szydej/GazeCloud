@@ -3,7 +3,7 @@ Real-Time online Eye-Tracking
 
 GazeCloudAPI Integration details:  
 
-Register origin domain adress of your web page:  https://api.gazerecorder.com/register/
+Register origin domain address of your web page:  https://api.gazerecorder.com/register/
 
 Include JavaScript 
 <script src="https://api.gazerecorder.com/GazeCloudAPI.js" ></script>
